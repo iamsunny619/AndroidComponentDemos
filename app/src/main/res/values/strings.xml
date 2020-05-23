@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DrawerExample</string>
+    <string name="message">Message</string>
+    <string name="chat">Chat</string>
+    <string name="profile">Profile</string>
+    <string name="others">Others</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
+
+    <string name="navigation_drawer_open">open navigation drawer</string>
+    <string name="navigation_drawer_close">close navigation drawer</string>
+
+    <string name="android">Android</string>
+    <string name="iamsunny619_gmail_com">iamsunny619@gmail.com</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="other_methods_for_drawer">Other Methods for drawer</string>
+</resources>
